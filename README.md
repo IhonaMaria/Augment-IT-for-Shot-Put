@@ -27,9 +27,11 @@ Another major improvement that could be made is modifying the code so that the a
 In addition, other upgrades that can be made are to allow the user to choose the speed of the video displayed in the fourth window. 
 Also, in our code we manually cut the start and end of the throw by finding the maximum acceleration peak and  assume that the video starts 2 seconds before the peak and ends 0.7 seconds after. Therefore, further work needs to be done to develop a code that synchronizes the video and the data automatically.
 
-# Autors
+# Authors
 Ihona Maria Correa de Cabo: github |
-Noah Pereira:  github |
-Maria Pérez Rodríguez:  github |
-Ieva Seglina:  github |
 
+Noah Pereira:  github |
+
+Maria Pérez Rodríguez:  github |
+
+Ieva Seglina:  github |
