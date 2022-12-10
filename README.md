@@ -6,7 +6,7 @@ The technologies currently on the market for evaluating the quality of shot puts
 Our final paper with detailed information of the project, a screen video running the App, the Matlab code and two example files to try out the App will be also attached. 
 # Instructions
 First, the shot put athlete user records simultaneously a video of the performance with a smartphone and an IMU sensor placed on the back of the hand. The data of  the sensor has to be recorded using the SmartGym app (https://github.com/MariahSabioni/SmartGym) and the video needs to be in mp4 format.
-If you only want to try out the App, you can use the video (NOMBRE) and the sensor data (NOMBRE) that we already recorded from a Swedish male professional athlete in order to develop our project. 
+If you only want to try out the App, you can use the video (back_5) and the sensor data (5.json) that we already recorded from a Swedish male professional athlete in order to develop our project. 
 When the user opens the Shot Put app, 5 windows will be displayed: introduction, variables, graphs, video and slider: 
 
 -The first window only shows an introduction to the app and describes some basic instructions on how to use it.  
